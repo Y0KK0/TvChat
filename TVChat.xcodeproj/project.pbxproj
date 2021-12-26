@@ -29,7 +29,6 @@
 		EAD95F2D266CE694002C5032 /* ChatInputAccessoryView.xib in Resources */ = {isa = PBXBuildFile; fileRef = EAD95F2C266CE694002C5032 /* ChatInputAccessoryView.xib */; };
 		EAD95F35266CE765002C5032 /* ChatInputAccessoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD95F34266CE765002C5032 /* ChatInputAccessoryView.swift */; };
 		EAD95F43266D0F83002C5032 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EAD95F42266D0F82002C5032 /* GoogleService-Info.plist */; };
-		EAD95F68266D12D0002C5032 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7CDAEB05244DECE900895FB7 /* Info.plist */; };
 		EAD95F79266D130E002C5032 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7CDAEB1B244DECE900895FB7 /* Info.plist */; };
 		EAD95F83266D1314002C5032 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7CDAEB10244DECE900895FB7 /* Info.plist */; };
 		EAD95F88266D1318002C5032 /* TVChatTests.xctest in Resources */ = {isa = PBXBuildFile; fileRef = 7CDAEB0A244DECE900895FB7 /* TVChatTests.xctest */; };
@@ -363,7 +362,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EAD95F68266D12D0002C5032 /* Info.plist in Resources */,
 				7CA46BFE25AC28F80017E1AE /* ChatRoomTableViewCell.xib in Resources */,
 				7CDAEB04244DECE900895FB7 /* LaunchScreen.storyboard in Resources */,
 				7CDAEB01244DECE900895FB7 /* Assets.xcassets in Resources */,
